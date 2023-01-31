@@ -1,10 +1,11 @@
 # # Booleans
-#
+
 # # True ot False
-#
+# Remember to capitalise!
+
 # a = True
 # b = False
-#
+
 # print(a == b) # False
 # print(a != b) # True
 # print(a >= b) # True - true is considered greater than false
